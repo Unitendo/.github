@@ -1,5 +1,5 @@
 # Unitendo
-A unity between all Nintendo related revivals.
+A unity between all Nintendo related revivals. (Except Brewtendo, see bottom for details.)
 
 "We all revive so why try to kill each other"
 
@@ -15,3 +15,8 @@ Possibly in Development:
 - Reshop
   
   A collection of homebrew apps, games, videos, promotional material, and in general just a good time. (Based off Brewtendo, but not a piracy hub, and also not well, stealing code.)
+
+
+
+## Why Brewtendo is excluded
+Brewtendo blatantly steals code, which was bad enough at the time, however now they banned every person who didn't throw money at them. Brewtendo is an unexceptionally greedy and disgusting group and we want NOTHING to do with them.
