@@ -12,9 +12,9 @@ Unitendo is not a **replacement** for any services, we are an inbetween, we use 
 We currently have no publicly available projects, but we do plan to release some soon.
 
 Possibly in Development:
-- Reshop
+- reShop
   
-  A collection of homebrew apps, games, videos, promotional material, and in general just a good time. (Based off Brewtendo, but not a piracy hub, and also not well, stealing code.)
+  A Nintendo 3DS eShop remake that attempts to recreate the original UI with many more features and advantages.
 
 
 
