@@ -1,5 +1,5 @@
 # Unitendo
-A unity between all Nintendo related revivals. (Except Brewtendo, see bottom for details.)
+A unity between some Nintendo related revivals. (Except Brewtendo, see bottom for details.)
 
 "We all revive so why try to kill each other"
 
