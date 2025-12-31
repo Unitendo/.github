@@ -1,5 +1,5 @@
 # Unitendo
-A unity between some Nintendo related revivals. (Except Brewtendo, see bottom for details.)
+A unity between some Nintendo related revivals.
 
 "We all revive so why try to kill each other"
 
@@ -18,5 +18,4 @@ Possibly in Development:
 
 
 
-## Why Brewtendo is excluded
-Brewtendo blatantly steals code, which was bad enough at the time, however now they banned every person who didn't throw money at them. Brewtendo is an unexceptionally greedy and disgusting group and we want NOTHING to do with them.
+
