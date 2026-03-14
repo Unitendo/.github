@@ -7,6 +7,9 @@ We currently have no publicly available projects, but we do plan to release some
 
 In development:
 - Aurorachat
+  
   A chatting application for the Nintendo 3DS, 2DS, Wii, and Wii U.
+  
 - reShop
+  
   A simple reimagining of the Nintendo eShop using Homebrew tools.
