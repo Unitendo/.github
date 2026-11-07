@@ -1,17 +1,10 @@
 # Startendo
 
-A group of people working on several Homebrew projects.
+A group of people who worked together to make homebrew projects.
 
-## What we're working on
+## Archival Notice
+The main hoster, and developer for a lot of the project, Virtualle, retired on November 6th, 2026. Rendering aurorachat shutdown.
 
-All of our projects are in infdev (infinite development). The grind never stops.
+ALL of our code is open for use free of credit for everyone.
 
-Available publicly:
-- Aurorachat
-  
-  A chatting application for the Nintendo 3DS, 2DS, Wii, and Wii U.
-
-Dead forever:
-- reShop
-  
-  A simple reimagining of the Nintendo eShop using Homebrew tools.
+Thank you, and goodbye.
