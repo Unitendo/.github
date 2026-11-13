@@ -11,7 +11,7 @@ Available publicly:
   
   A chatting application for the Nintendo 3DS, 2DS, Wii, and Wii U.
 
-Dead forever:
+Purgatory(?):
 - reShop
   
   A simple reimagining of the Nintendo eShop using Homebrew tools.
